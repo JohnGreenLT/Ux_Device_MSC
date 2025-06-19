@@ -1,0 +1,4 @@
+F:/ST/Projects/Ux_Device_MSC/USBPD/Target/usbpd_dpm_user.c:134:6:USBPD_DPM_WaitForTime	1
+F:/ST/Projects/Ux_Device_MSC/USBPD/Target/usbpd_dpm_user.c:144:6:USBPD_DPM_UserExecute	1
+F:/ST/Projects/Ux_Device_MSC/USBPD/Target/usbpd_dpm_user.c:157:6:USBPD_DPM_UserCableDetection	1
+F:/ST/Projects/Ux_Device_MSC/USBPD/Target/usbpd_dpm_user.c:178:6:USBPD_DPM_Notification	7

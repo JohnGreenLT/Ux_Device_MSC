@@ -1,0 +1,3 @@
+F:/ST/Projects/Ux_Device_MSC/Middlewares/ST/STM32_USBPD_Library/Devices/STM32N6XX/src/usbpd_hw.c:29:15:USBPD_HW_GetUSPDInstance	1
+F:/ST/Projects/Ux_Device_MSC/Middlewares/ST/STM32_USBPD_Library/Devices/STM32N6XX/src/usbpd_hw.c:91:10:USBPD_HW_GetRpResistorValue	1
+F:/ST/Projects/Ux_Device_MSC/Middlewares/ST/STM32_USBPD_Library/Devices/STM32N6XX/src/usbpd_hw.c:97:6:USBPD_HW_SetFRSSignalling	1

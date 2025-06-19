@@ -1,0 +1,14 @@
+../../Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:1407:22:LL_AHB4_GRP1_EnableClock	1
+../../Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:1449:26:LL_AHB4_GRP1_IsEnabledClock	2
+../../Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:1487:22:LL_AHB4_GRP1_DisableClock	1
+../../Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:1755:22:LL_AHB5_GRP1_EnableClock	1
+../../Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:1891:22:LL_AHB5_GRP1_DisableClock	1
+../../Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:1945:22:LL_AHB5_GRP1_ForceReset	1
+../../Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:1999:22:LL_AHB5_GRP1_ReleaseReset	1
+../../Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:3495:22:LL_APB4_GRP2_EnableClock	1
+../../Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_rcc.h:1749:22:LL_RCC_HSE_SelectHSEDiv2AsDiv2Clock	1
+F:/ST/Projects/Ux_Device_MSC/Core/Src/stm32n6xx_hal_msp.c:62:6:HAL_MspInit	1
+F:/ST/Projects/Ux_Device_MSC/Core/Src/stm32n6xx_hal_msp.c:76:6:HAL_PCD_MspInit	5
+F:/ST/Projects/Ux_Device_MSC/Core/Src/stm32n6xx_hal_msp.c:158:6:HAL_PCD_MspDeInit	3
+F:/ST/Projects/Ux_Device_MSC/Core/Src/stm32n6xx_hal_msp.c:194:6:HAL_SD_MspInit	1
+F:/ST/Projects/Ux_Device_MSC/Core/Src/stm32n6xx_hal_msp.c:231:6:HAL_SD_MspDeInit	2

@@ -1,0 +1,12 @@
+F:/ST/Projects/Ux_Device_MSC/USBX/App/ux_device_msc.c:68:6:USBD_STORAGE_Activate	1
+F:/ST/Projects/Ux_Device_MSC/USBX/App/ux_device_msc.c:83:6:USBD_STORAGE_Deactivate	1
+F:/ST/Projects/Ux_Device_MSC/USBX/App/ux_device_msc.c:104:6:USBD_STORAGE_Read	5
+F:/ST/Projects/Ux_Device_MSC/USBX/App/ux_device_msc.c:157:6:USBD_STORAGE_Write	5
+F:/ST/Projects/Ux_Device_MSC/USBX/App/ux_device_msc.c:210:6:USBD_STORAGE_Flush	1
+F:/ST/Projects/Ux_Device_MSC/USBX/App/ux_device_msc.c:236:6:USBD_STORAGE_Status	1
+F:/ST/Projects/Ux_Device_MSC/USBX/App/ux_device_msc.c:262:6:USBD_STORAGE_Notification	1
+F:/ST/Projects/Ux_Device_MSC/USBX/App/ux_device_msc.c:286:7:USBD_STORAGE_GetMediaLastLba	1
+F:/ST/Projects/Ux_Device_MSC/USBX/App/ux_device_msc.c:305:7:USBD_STORAGE_GetMediaBlocklength	1
+F:/ST/Projects/Ux_Device_MSC/USBX/App/ux_device_msc.c:326:6:HAL_SD_TxCpltCallback	2
+F:/ST/Projects/Ux_Device_MSC/USBX/App/ux_device_msc.c:340:6:HAL_SD_RxCpltCallback	2
+F:/ST/Projects/Ux_Device_MSC/USBX/App/ux_device_msc.c:354:16:check_sd_status	3

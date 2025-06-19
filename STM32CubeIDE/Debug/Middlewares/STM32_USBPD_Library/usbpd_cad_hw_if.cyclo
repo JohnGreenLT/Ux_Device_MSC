@@ -1,0 +1,16 @@
+../../Drivers/CMSIS/Include/core_cm55.h:3852:22:__NVIC_EnableIRQ	2
+../../Drivers/CMSIS/Include/core_cm55.h:4049:22:__NVIC_SetPriority	2
+../../Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_ucpd.h:344:22:LL_UCPD_Enable	1
+../../Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_ucpd.h:388:22:LL_UCPD_SetRxOrderSet	1
+../../Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_ucpd.h:641:22:LL_UCPD_SetccEnable	1
+../../Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_ucpd.h:798:22:LL_UCPD_EnableIT_TypeCEventCC2	1
+../../Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_ucpd.h:809:22:LL_UCPD_EnableIT_TypeCEventCC1	1
+F:/ST/Projects/Ux_Device_MSC/Middlewares/ST/STM32_USBPD_Library/Devices/STM32N6XX/src/usbpd_cad_hw_if.c:238:6:CAD_Init	1
+F:/ST/Projects/Ux_Device_MSC/Middlewares/ST/STM32_USBPD_Library/Devices/STM32N6XX/src/usbpd_cad_hw_if.c:376:6:CAD_Enter_ErrorRecovery	1
+F:/ST/Projects/Ux_Device_MSC/Middlewares/ST/STM32_USBPD_Library/Devices/STM32N6XX/src/usbpd_cad_hw_if.c:423:10:CAD_StateMachine_SNK	5
+F:/ST/Projects/Ux_Device_MSC/Middlewares/ST/STM32_USBPD_Library/Devices/STM32N6XX/src/usbpd_cad_hw_if.c:1086:10:CAD_StateMachine	2
+F:/ST/Projects/Ux_Device_MSC/Middlewares/ST/STM32_USBPD_Library/Devices/STM32N6XX/src/usbpd_cad_hw_if.c:1167:6:CAD_Check_HW_SNK	5
+F:/ST/Projects/Ux_Device_MSC/Middlewares/ST/STM32_USBPD_Library/Devices/STM32N6XX/src/usbpd_cad_hw_if.c:1300:17:ManageStateDetached_SNK	3
+F:/ST/Projects/Ux_Device_MSC/Middlewares/ST/STM32_USBPD_Library/Devices/STM32N6XX/src/usbpd_cad_hw_if.c:1721:17:ManageStateAttachedWait_SNK	6
+F:/ST/Projects/Ux_Device_MSC/Middlewares/ST/STM32_USBPD_Library/Devices/STM32N6XX/src/usbpd_cad_hw_if.c:1779:17:ManageStateAttached_SNK	4
+F:/ST/Projects/Ux_Device_MSC/Middlewares/ST/STM32_USBPD_Library/Devices/STM32N6XX/src/usbpd_cad_hw_if.c:1840:6:CAD_HW_IF_VBUSDetectCallback	3
